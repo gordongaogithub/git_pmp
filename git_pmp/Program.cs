@@ -9,6 +9,8 @@ namespace git_pmp
             Console.WriteLine("this is master");
 
             Console.WriteLine("this is feature");
+
+            Console.WriteLine("this is release");
         }
     }
 }
