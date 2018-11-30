@@ -7,6 +7,8 @@ namespace git_pmp
         static void Main(string[] args)
         {
             Console.WriteLine("this is master");
+
+            Console.WriteLine("this is feature");
         }
     }
 }
