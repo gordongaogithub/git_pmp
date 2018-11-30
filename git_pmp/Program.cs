@@ -15,6 +15,8 @@ namespace git_pmp
             Console.WriteLine("this is feature_2");
 
             Console.WriteLine("this is feature_1 again");
+
+            Console.WriteLine("this is release again");
         }
     }
 }
