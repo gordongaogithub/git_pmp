@@ -12,7 +12,7 @@ namespace git_pmp
 
             Console.WriteLine("this is release");
 
-            Console.WriteLine("this is feature_1");
+            Console.WriteLine("this is feature_2");
         }
     }
 }
